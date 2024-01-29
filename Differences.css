@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+p,h1,h4,li{
+    color: white;
+}
+form{
+background-color: #464b4f;
+    width: 90%;
+    height: 1000px;
+    margin: auto;
+}
